@@ -1,5 +1,3 @@
-package pointRewardCalculation;
-
 public class PointRewardCalculation {
 	public int rewardCalculation(int amount){
 		int points = 0;
